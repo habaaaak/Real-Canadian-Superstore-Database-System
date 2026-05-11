@@ -35,3 +35,13 @@ Through this project, I gained hands-on experience in:
 - `queries.sql` — Analytical and business-focused SQL queries
 - `ERD.png` — Entity Relationship Diagram
 - `report.pdf` — Full project documentation
+
+##  Entity Relationship Diagram
+
+![ER Diagram](ERD.png)
+
+---
+
+## 🔗 Database Relationships
+
+![Database Relationships](database-relationships.png)
