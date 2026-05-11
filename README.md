@@ -1,7 +1,5 @@
 # Real-Canadian-Superstore-Database-System
-# 🛒 Real Canadian Superstore Database System
-
-## 📌 Overview
+## Overview
 This project is a relational database system designed for a retail supermarket environment inspired by Real Canadian Superstore. The system was developed to manage core business operations including customer information, product inventory, employee records, store locations, and customer orders.
 
 The database was built using SQL and relational database design principles to organize and manage large amounts of business data efficiently. The project demonstrates how databases can support retail operations through structured data storage, relationship management, and analytical SQL queries.
@@ -24,7 +22,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - SQL
 - Microsoft Access
 - Relational Database Modeling
@@ -32,7 +30,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 - `schema.sql` — Database table creation scripts
 - `queries.sql` — Analytical and business-focused SQL queries
 - `ERD.png` — Entity Relationship Diagram
